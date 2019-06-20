@@ -6,23 +6,7 @@ import SignUp from './screens/Signup';
 export default class App extends Component {
   render() {
     return (
-      // <SafeAreaView style={styles.container}>
-
-      //   <Text style={styles.heading}>Reading List</Text>
-
-      //   <View style={styles.card}>
-      //     <View style={styles.cardHeader}>
-      //       <Text style={styles.cardTitle}>Sign Up:</Text>
-      //     </View>
-      //     <View style={styles.cardBody}>
-
-      //     </View>
-      //     <View style={styles.cardFooter}>
-      //       <Button title="Hello" />
-      //     </View>
-      //   </View>
-
-      // </SafeAreaView>
+      
       <SignUp />
     );
   }
